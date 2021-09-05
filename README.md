@@ -7,7 +7,7 @@ Estudos do Livro Clean Code e da Playlist sobre o assunto - Felipe Deschamps.
 -Como esta fazendo? (implementações)
 
 # Books: Refactoring e Clean Code
-## Resumo Clean Code Playlist Felipe Dechamps:
+## Resumo Clean Code da Playlist Felipe Deschamps:
 
 1- Controle de qualidade na manutençao e não na produçao como é feito na maioria das vezes.
 2- Ordenação nomear arquivos, variaveis,funcoes.
